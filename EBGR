@@ -1,10 +1,5 @@
-EBGR-Protocol-Implementation-in-C-
-==================================
 
-EBGR - Edge Node Based Greedy Routing Algorithm is used to find the optimum node within a particular range in Vehicular Ad-hoc Network Scenario
-
-
-Vanet Structure for 14 nodes within Trnamission range 600m
+//Vanet Structure for 14 nodes within Trnamission range 600m
 
 #include <iostream>
 #include <cmath>
