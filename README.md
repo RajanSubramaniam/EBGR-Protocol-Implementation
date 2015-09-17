@@ -15,6 +15,7 @@
         <li>Length Estimation </li>
         <li>Direction of Motion </li>
         <li>Reckoning Link Stability </li>
+        <li>Potential Score </li>
       </ul>
     </li>
   </ol>
