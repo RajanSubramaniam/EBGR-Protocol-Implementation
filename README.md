@@ -9,4 +9,13 @@
   <ol>
     <li> Implemented the core logic of EBGR routing protocol.</li>
     <li> The relevant node in that particular transmission range is selected using a cosine similarity measure.</li>
+    <li> Several Key factors are used in calculating the optimum path to the destination node which are as follows
+      <ul>
+        <li>Distance Calculation</li>
+        <li>Length Estimation </li>
+        <li>Direction of Motion </li>
+        <li>Reckoning Link Stability </li>
+      </ul>
+    </li>
+  </ol>
     
